@@ -1,0 +1,19 @@
+export default {
+	COLORS: {
+		BLACK: '#000000',
+		ERROR: '#F5365C',
+		INFO: '#11CDEF',
+		LABEL: '#3C1053',
+		PRIMARY: '#AD5389',
+		SECONDARY: '#3C1053',
+		SUCCESS: '#2DCE89',
+		WARNING: '#FB6340',
+		WHITE: '#FFFFFF',
+		GRADIENT_BLUE: ['#6B84CA', '#8F44CE'],
+		GRADIENT_PINK: ['#D442F8', '#B645F5', '#9B40F8'],
+	},
+
+	SIZES : {
+		BASE: 18,
+	}
+};
